@@ -288,7 +288,7 @@ const Banner = () => {
                         <h5 className="text-3xl sm:text-4xl font-anton text-primary mb-1.5 flex items-center justify-center md:justify-end">
                             <span
                                 className="counter-animation"
-                                data-value=""
+                                data-value="1"
                                 data-suffix="+"
                             >
                                 0+
